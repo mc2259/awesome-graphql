@@ -12,8 +12,8 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Foundation](#foundation)
 - [Community](#community)
 - [Libraries](#lib)
-	- [Javascript](#lib-js)
-	- [Typescript](#lib-ts)
+        - [JavaScript](#lib-js)
+        - [TypeScript](#lib-ts)
 	- [Ruby](#lib-rb)
 	- [PHP](#lib-php)
 	- [Python](#lib-py)
@@ -45,8 +45,8 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Services](#services)
 - [Databases](#databases)
 - [Examples](#example)
-	- [Javascript](#example-js)
-	- [Typescript](#example-ts)
+        - [JavaScript](#example-js)
+        - [TypeScript](#example-ts)
 	- [Ruby](#example-rb)
 	- [Go](#example-go)
 	- [Scala](#example-scala)
@@ -472,7 +472,7 @@ for the Angel framework.
 * [GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
 * [graphqlviz](https://github.com/sheerun/graphqlviz) - GraphQL API visualizer in Node.js
 * [GraphQL AST Explorer](http://dferber90.github.io/graphql-ast-explorer/) - Explore the AST of a GraphQL document interactively
-* [GraphQLHub](https://www.graphqlhub.com/) - Query public API's schemas (e.g. Reddit, Twitter, Github, etc) using GraphiQL
+* [GraphQLHub](https://www.graphqlhub.com/) - Query public API's schemas (e.g. Reddit, Twitter, GitHub, etc) using GraphiQL
 * [js-graphql-intellij-plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) - GraphQL language support for IntelliJ IDEA and WebStorm, including Relay.QL tagged templates in JavaScript and TypeScript.
 * [gdom](https://github.com/syrusakbary/gdom) - DOM Traversing and Scraping using GraphQL.
 * [Annotated GraphQL Server](https://github.com/almilo/annotated-graphql-server) - Server for annotated GraphQL showing how to transform a REST api into a GraphQL endpoint with annotations.
@@ -588,7 +588,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [angular2-graphql-rest](https://github.com/kamilkisiela/angular2-graphql-rest) - An example app with REST Api working side by side with GraphQL using Apollo Client with angular2-apollo. Includes step-by-step tutorial how to migrate from REST to GraphQL.
 * [GraphQL-DataLoader-Boilerplate](https://github.com/entria/graphql-dataloader-boilerplate) - Boilerplate to start your GraphQL with DataLoader server
 * [GraphQL-CEP](https://github.com/sibelius/graphql-cep) - Query address by CEP
-* [Apollo React example for Github GraphQL API](https://github.com/katopz/react-apollo-graphql-github-example) - Usage Examples Apollo React for Github GraphQL API with create-react-app
+* [Apollo React example for GitHub GraphQL API](https://github.com/katopz/react-apollo-graphql-github-example) - Usage Examples Apollo React for GitHub GraphQL API with create-react-app
 * [Intuitive GraphQL Resolver Example](https://github.com/xpepermint/graphql-example) - GraphQL application example using [contextable.js](https://github.com/rawmodel/framework).
 * [GraphQL Tutorial](https://github.com/rse/graphql-tutorial) - A didactic 12-step introduction to GraphQL, starting from a simple Hello World to a network-based GraphQL server with a built-in GraphQL UI
 * [Serverless Apollo Graphql](https://github.com/RishikeshDarandale/serverless-graphql-boilerplate) - Boilerplate to start you Apollo graphql server in AWS using serverless framework
@@ -753,7 +753,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Relay 101: Building A Hacker News Client](https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6)
 * [GraphQL Shorthand Notation Cheatsheet](https://wehavefaces.net/graphql-shorthand-notation-cheatsheet-17cd715861b6)
 * [The GitHub GraphQL API](https://githubengineering.com/the-github-graphql-api/)
-* [Github GraphQL API React Example](https://medium.com/@katopz/github-graphql-api-react-example-eace824d7b61)
+* [GitHub GraphQL API React Example](https://medium.com/@katopz/github-graphql-api-react-example-eace824d7b61)
 * [Testing a GraphQL Server using Jest](https://medium.com/entria/testing-a-graphql-server-using-jest-4e00d0e4980e)
 * [How to implement viewerCanSee in  GraphQL](https://medium.com/entria/how-to-implement-viewercansee-in-graphql-78cc48de7464)
 * [Create an infinite loading list with React and GraphQL](https://dev.to/yvonnickfrin/create-an-infinite-loading-list-with-react-and-graphql-19hh)
